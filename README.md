@@ -8,7 +8,7 @@ Web Developer
 I'm a frontend web developer passionate about creating beautiful and functional web applications. I work with modern technologies and my goal is always to provide the best user experience possible. I put special efforts into optimizing the code and make use of all the best use cases for all the technologies that I use. If I had to describe myself in one sentence that would be family person, football fanatic & tech obsessed.
 
 * 🌍  I'm based in Howrah, West Bengal
-* 🖥️  See my portfolio at [Wesbite](http://samimmiddey.netlify.app)
+* 🖥️  See my portfolio at [Wesbite](http://samimmiddey.vercel.app)
 * ✉️  You can contact me at [samimmiddey@gmail.com](mailto:samimmiddey@gmail.com)
 * 🧠  I'm learning everything JavaScript
 
