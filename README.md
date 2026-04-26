@@ -8,7 +8,7 @@
 
 ### 👋 Hey, I'm Samim — I build things people actually enjoy using.
 
-From pixel-perfect interfaces to complex web applications, I obsess over the details that most people never notice — and that's exactly what makes the difference. I care deeply about how things feel, not just how they function. Clean code, smooth interactions, and experiences that just work — that's the standard I hold myself to.
+From pixel-perfect interfaces to complex web applications, I obsess over the details that most people never notice — and that's exactly what makes the difference.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-samimmiddey.vercel.app-1a2744?style=for-the-badge&logo=vercel&logoColor=white)](https://samimmiddey.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-samimmiddey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samimmiddey)
