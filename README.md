@@ -86,6 +86,6 @@ From pixel-perfect interfaces to complex web applications, I obsess over the det
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" />
 
 </div>
