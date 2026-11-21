@@ -24,57 +24,52 @@ I obsess over the details most people never notice, because that's where great e
 
 ## 🚀 Tech Stack
 
-**Languages**
+<div align="center">
 
-<p>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="32" title="HTML5" alt="HTML5" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css/1572B6" height="32" title="CSS3" alt="CSS3" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" title="JavaScript" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" title="TypeScript" alt="TypeScript" />
-</p>
+**`Languages`**
 
-**Frameworks & Libraries**
+![HTML5](https://img.shields.io/badge/HTML5-1e1b3a?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-1e1b3a?style=flat-square&logo=css3&logoColor=2965F1)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1b3a?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1b3a?style=flat-square&logo=typescript&logoColor=4A9BE8)
 
-<p>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" title="React" alt="React" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs/888888" height="32" title="Next.js" alt="Next.js" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="32" title="Astro" alt="Astro" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/redux/764ABC" height="32" title="Redux Toolkit" alt="Redux Toolkit" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="32" title="TanStack Query" alt="TanStack Query" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" height="32" title="React Hook Form" alt="React Hook Form" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/zod/3E67B1" height="32" title="Zod" alt="Zod" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/socketdotio/888888" height="32" title="Socket.io" alt="Socket.io" />
-</p>
+**`Frameworks & Libraries`**
 
-**Styling & Animation**
+![React](https://img.shields.io/badge/React-1e1b3a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-1e1b3a?style=flat-square&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-1e1b3a?style=flat-square&logo=astro&logoColor=FF5D01)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-1e1b3a?style=flat-square&logo=redux&logoColor=A27BDB)
+![Zustand](https://img.shields.io/badge/Zustand-1e1b3a?style=flat-square&logo=react&logoColor=C8A27A)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-1e1b3a?style=flat-square&logo=reactquery&logoColor=FF4154)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-1e1b3a?style=flat-square&logo=reacthookform&logoColor=EC5990)
+![Zod](https://img.shields.io/badge/Zod-1e1b3a?style=flat-square&logo=zod&logoColor=5B8DEF)
+![Socket.io](https://img.shields.io/badge/Socket.io-1e1b3a?style=flat-square&logo=socketdotio&logoColor=white)
 
-<p>
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="32" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="32" title="Material UI" alt="Material UI" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/shadcnui/888888" height="32" title="shadcn/ui" alt="shadcn/ui" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/greensock/88CE02" height="32" title="GSAP" alt="GSAP" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/framer/0055FF" height="32" title="Framer Motion" alt="Framer Motion" />
-</p>
+**`Styling & Animation`**
 
-**Tools & Platforms**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1e1b3a?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1b3a?style=flat-square&logo=bootstrap&logoColor=A07BD6)
+![Material UI](https://img.shields.io/badge/Material_UI-1e1b3a?style=flat-square&logo=mui&logoColor=007FFF)
+![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-1e1b3a?style=flat-square&logo=shadcnui&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-1e1b3a?style=flat-square&logo=greensock&logoColor=88CE02)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-1e1b3a?style=flat-square&logo=framer&logoColor=3D7BFF)
 
-<p>
-  <img src="https://cdn.simpleicons.org/git/F05032" height="32" title="Git" alt="Git" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/888888" height="32" title="GitHub" alt="GitHub" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="32" title="Firebase" alt="Firebase" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/sanity/F03E2F" height="32" title="Sanity" alt="Sanity" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="32" title="Figma" alt="Figma" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="32" title="VS Code" alt="VS Code" />
-</p>
+**`Tools & Platforms`**
 
-**AI**
+![Git](https://img.shields.io/badge/Git-1e1b3a?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1e1b3a?style=flat-square&logo=github&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-1e1b3a?style=flat-square&logo=firebase&logoColor=FFCA28)
+![Sanity](https://img.shields.io/badge/Sanity-1e1b3a?style=flat-square&logo=sanity&logoColor=F03E2F)
+![Figma](https://img.shields.io/badge/Figma-1e1b3a?style=flat-square&logo=figma&logoColor=F24E1E)
+![VS Code](https://img.shields.io/badge/VS_Code-1e1b3a?style=flat-square&logo=visualstudiocode&logoColor=2AA3F0)
 
-<p>
-  <img src="https://cdn.simpleicons.org/claude/D97757" height="32" title="Claude Code" alt="Claude Code" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="32" title="Gemini" alt="Gemini" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/antigravity/4285F4" height="32" title="Antigravity" alt="Antigravity" />
-</p>
+**`AI`**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-1e1b3a?style=flat-square&logo=claude&logoColor=D97757)
+![Gemini](https://img.shields.io/badge/Gemini-1e1b3a?style=flat-square&logo=googlegemini&logoColor=8E75B2)
+![Antigravity](https://img.shields.io/badge/Antigravity-1e1b3a?style=flat-square&logo=google&logoColor=4285F4)
+
+</div>
 
 <br />
 
