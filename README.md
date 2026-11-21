@@ -10,6 +10,8 @@
 
 I obsess over the details most people never notice, because that's where great experiences are built.
 
+<br />
+
 <p align="center">
   <a href="https://samimmiddey.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1a2744?style=for-the-badge&logo=vercel&logoColor=white" height="40" alt="Portfolio" /></a>
   &nbsp;
@@ -22,7 +24,7 @@ I obsess over the details most people never notice, because that's where great e
 
 <br />
 
-<h2 align="center">🚀 Tech Stack</h2>
+<h2 align="center">🚀 Tech Stack<br /></h2>
 
 <div align="center">
 
@@ -33,6 +35,7 @@ I obsess over the details most people never notice, because that's where great e
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="24" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="24" alt="TypeScript" />
 
+<br />
 <br />
 
 **Frameworks & Libraries**
@@ -48,6 +51,7 @@ I obsess over the details most people never notice, because that's where great e
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="24" alt="Socket.io" />
 
 <br />
+<br />
 
 **Styling & Animation**
 
@@ -59,6 +63,7 @@ I obsess over the details most people never notice, because that's where great e
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="24" alt="Framer Motion" />
 
 <br />
+<br />
 
 **Tools & Platforms**
 
@@ -69,6 +74,7 @@ I obsess over the details most people never notice, because that's where great e
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="24" alt="Figma" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="24" alt="VS Code" />
 
+<br />
 <br />
 
 **AI**
@@ -83,7 +89,7 @@ I obsess over the details most people never notice, because that's where great e
 
 <br />
 
-<h2 align="center">## 📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats<br /></h2>
 
 <div align="center">
 
@@ -100,7 +106,7 @@ I obsess over the details most people never notice, because that's where great e
 
 <br />
 
-<h2 align="center">## 📈 GitHub Activity</h2>
+<h2 align="center">📈 GitHub Activity<br /></h2>
 
 <div align="center">
 
