@@ -10,19 +10,9 @@
 
 I obsess over the details most people never notice, because that's where great experiences are built.
 
-<p align="center">
-  <a href="https://samimmiddey.vercel.app" title="Portfolio">
-    <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/samimmiddey" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:samimmiddey@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
-  </a>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a2744?style=flat-square&logo=vercel&logoColor=white)](https://samimmiddey.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/samimmiddey)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samimmiddey@gmail.com)
 
 </div>
 
