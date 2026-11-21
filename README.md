@@ -6,13 +6,23 @@
 
 <div align="center">
 
-### 👋 Hey, I'm Samim — I build things people actually enjoy using.
+### 👋 Hey, I'm Samim. I build things people actually enjoy using.
 
-From pixel-perfect interfaces to complex web applications, I obsess over the details most people never notice — because that's exactly where great experiences are built.
+I obsess over the details most people never notice, because that's where great experiences are built.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-samimmiddey.vercel.app-1a2744?style=for-the-badge&logo=vercel&logoColor=white)](https://samimmiddey.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-samimmiddey-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samimmiddey)
-[![Gmail](https://img.shields.io/badge/Gmail-samimmiddey@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samimmiddey@gmail.com)
+<p align="center">
+  <a href="https://samimmiddey.vercel.app" title="Portfolio">
+    <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/samimmiddey" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:samimmiddey@gmail.com" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+  </a>
+</p>
 
 </div>
 
