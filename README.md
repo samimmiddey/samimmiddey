@@ -22,7 +22,7 @@ I obsess over the details most people never notice, because that's where great e
 
 <br />
 
-## 🚀 Tech Stack
+<h2 align="center">🚀 Tech Stack</h2>
 
 <div align="center">
 
@@ -32,6 +32,8 @@ I obsess over the details most people never notice, because that's where great e
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="24" alt="CSS3" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="24" alt="JavaScript" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="24" alt="TypeScript" />
+
+<br />
 
 **Frameworks & Libraries**
 
@@ -45,6 +47,8 @@ I obsess over the details most people never notice, because that's where great e
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" height="24" alt="Zod" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="24" alt="Socket.io" />
 
+<br />
+
 **Styling & Animation**
 
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="24" alt="Tailwind CSS" />
@@ -54,6 +58,8 @@ I obsess over the details most people never notice, because that's where great e
 <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" height="24" alt="GSAP" />
 <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="24" alt="Framer Motion" />
 
+<br />
+
 **Tools & Platforms**
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="24" alt="Git" />
@@ -62,6 +68,8 @@ I obsess over the details most people never notice, because that's where great e
 <img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" height="24" alt="Sanity" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="24" alt="Figma" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="24" alt="VS Code" />
+
+<br />
 
 **AI**
 
@@ -75,7 +83,7 @@ I obsess over the details most people never notice, because that's where great e
 
 <br />
 
-## 📊 GitHub Stats
+<h2 align="center">## 📊 GitHub Stats</h2>
 
 <div align="center">
 
@@ -92,7 +100,7 @@ I obsess over the details most people never notice, because that's where great e
 
 <br />
 
-## 📈 GitHub Activity
+<h2 align="center">## 📈 GitHub Activity</h2>
 
 <div align="center">
 
