@@ -8,7 +8,7 @@
 
 ### 👋 Hey, I'm Samim. I build things people actually enjoy using.
 
-I obsess over the details most people never notice, because that's where great experiences are built.
+I'm a frontend developer who turns designs into fast, accessible, pixel-perfect interfaces. I sweat the small stuff, because that's what separates a good product from one people love using.
 
 <br />
 
