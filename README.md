@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Samim%20Middey&fontSize=62&fontColor=ffffff&fontAlignY=40&desc=Frontend%20Developer&descAlignY=58&descSize=18&descColor=a78bfa&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=A78BFA&text=Samim%20Middey&height=130&fontSize=52&fontAlignY=45&desc=Frontend%20Developer&descAlignY=72&descSize=18&descColor=9CA3AF&animation=fadeIn" width="100%" alt="Samim Middey" />
 
 </div>
 
