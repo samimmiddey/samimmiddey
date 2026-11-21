@@ -26,40 +26,55 @@ I obsess over the details most people never notice, because that's where great e
 
 **Languages**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="32" title="HTML5" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="32" title="CSS3" alt="CSS3" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="32" title="JavaScript" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="32" title="TypeScript" alt="TypeScript" />
+</p>
 
 **Frameworks & Libraries**
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square&logo=react&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="32" title="React" alt="React" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/888888" height="32" title="Next.js" alt="Next.js" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="32" title="Astro" alt="Astro" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/redux/764ABC" height="32" title="Redux Toolkit" alt="Redux Toolkit" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/reactquery/FF4154" height="32" title="TanStack Query" alt="TanStack Query" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/reacthookform/EC5990" height="32" title="React Hook Form" alt="React Hook Form" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/zod/3E67B1" height="32" title="Zod" alt="Zod" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/socketdotio/888888" height="32" title="Socket.io" alt="Socket.io" />
+</p>
 
 **Styling & Animation**
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Shadcn/ui](https://img.shields.io/badge/Shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="32" title="Tailwind CSS" alt="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="32" title="Bootstrap" alt="Bootstrap" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mui/007FFF" height="32" title="Material UI" alt="Material UI" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/shadcnui/888888" height="32" title="shadcn/ui" alt="shadcn/ui" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/greensock/88CE02" height="32" title="GSAP" alt="GSAP" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/framer/0055FF" height="32" title="Framer Motion" alt="Framer Motion" />
+</p>
 
 **Tools & Platforms**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Sanity](https://img.shields.io/badge/Sanity-F03E2F?style=flat-square&logo=sanity&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/git/F05032" height="32" title="Git" alt="Git" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/github/888888" height="32" title="GitHub" alt="GitHub" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="32" title="Firebase" alt="Firebase" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/sanity/F03E2F" height="32" title="Sanity" alt="Sanity" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="32" title="Figma" alt="Figma" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="32" title="VS Code" alt="VS Code" />
+</p>
+
+**AI**
+
+<p>
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="32" title="Claude Code" alt="Claude Code" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" height="32" title="Gemini" alt="Gemini" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/antigravity/4285F4" height="32" title="Antigravity" alt="Antigravity" />
+</p>
 
 <br />
 
