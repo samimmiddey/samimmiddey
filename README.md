@@ -46,6 +46,7 @@ I'm a frontend developer who turns designs into fast, accessible, pixel-perfect 
 <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="24" alt="Redux Toolkit" />
 <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" height="24" alt="Zustand" />
 <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" height="24" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/TanStack_Table-FF4154?style=for-the-badge&logo=reacttable&logoColor=white" height="24" alt="TanStack Table" />
 <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" height="24" alt="React Hook Form" />
 <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" height="24" alt="Zod" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" height="24" alt="Socket.io" />
@@ -70,7 +71,6 @@ I'm a frontend developer who turns designs into fast, accessible, pixel-perfect 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="24" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="24" alt="GitHub" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="24" alt="Firebase" />
-<img src="https://img.shields.io/badge/Sanity-F03E2F?style=for-the-badge&logo=sanity&logoColor=white" height="24" alt="Sanity" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="24" alt="Figma" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="24" alt="VS Code" />
 
